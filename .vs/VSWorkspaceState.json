@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\MyPortfolio.Application",
+    "\\Core\\MyPortfolio.Application\\Contracts",
+    "\\Core\\MyPortfolio.Domain",
+    "\\Core\\MyPortfolio.Domain\\Entities",
+    "\\Infrastructure",
+    "\\Infrastructure\\MyPortfolio.Infrastructure",
+    "\\Infrastructure\\MyPortfolio.Infrastructure\\Persistence",
+    "\\Infrastructure\\MyPortfolio.Infrastructure\\Persistence\\Repositories"
+  ],
+  "SelectedNode": "\\Core\\MyPortfolio.Domain\\Entities",
+  "PreviewInSolutionExplorer": false
+}
